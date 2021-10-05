@@ -1,3 +1,4 @@
+// Вариант1
 const canadianDollar = 0.91;
 
 function roundTwo(amount) {
